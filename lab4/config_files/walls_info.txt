@@ -1,0 +1,5 @@
+WALLS
+
+cost: 50
+repair_cost: 25
+max_health: 4

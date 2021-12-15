@@ -1,0 +1,21 @@
+LEVEL_0
+radius: 3
+damage: 2
+speed: 1
+cost: 100
+
+LEVEL_1
+radius: 3
+damage: 3
+speed: 1
+cost: 75
+
+LEVEL_2
+radius: 4
+damage: 4
+speed: 1
+cost: 50
+
+
+
+

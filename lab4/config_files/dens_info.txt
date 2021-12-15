@@ -1,0 +1,22 @@
+#DEN_1 
+coordinates: 0 0
+
+avia 2 1 
+heavy 1 2 
+light 0 3
+light_hero 3 4 { 
+ damage 2 3 
+ heal 3 30 
+} 
+light_hero 3 5 { 
+ speed 3 2 
+ damage 2 2 
+} 
+light 0 7
+avia_hero 5 9 {
+ damage 3 2
+}
+heavy 1 10
+heavy_hero 4 12 {
+ heal 3 3
+}

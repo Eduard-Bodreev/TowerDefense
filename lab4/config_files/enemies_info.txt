@@ -1,0 +1,55 @@
+#LIGHT
+max_health 2
+heal_percent 10
+heal_speed 4
+speed 1
+damage 1
+#
+
+#HEAVY
+max_health 3
+heal_percent 10
+heal_speed 5
+speed 1
+damage 2
+radius 2
+walls_damage 2
+#
+
+#AVIATION
+max_health 3
+heal_percent 10
+heal_speed 5
+speed 2
+damage 2
+radius 1
+ammunition 4
+#
+
+#LIGHT_HERO
+max_health 4
+heal_percent 20
+heal_speed 4
+speed 1
+damage 2
+#
+
+#HEAVY_HERO
+max_health 4
+heal_percent 20
+heal_speed 5
+speed 1
+damage 3
+radius 3
+walls_damage 3
+#
+
+#AVIATION_HERO
+max_health 4
+heal_percent 20
+heal_speed 5
+speed 2
+damage 3
+radius 1
+ammunition 4
+#

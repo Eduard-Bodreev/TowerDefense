@@ -1,0 +1,20 @@
+LEVEL_0
+durability: 7
+repair_percent: 10
+repair_speed: 5
+revenue: 100 
+cost: 0
+
+LEVEL_1
+durability: 8
+repair_percent: 10
+repair_speed: 4
+revenue: 120 
+cost: 200
+
+LEVEL_2
+durability: 9
+repair_percent: 10
+repair_speed: 3
+revenue: 120 
+cost: 200
